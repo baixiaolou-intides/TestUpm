@@ -1,0 +1,15 @@
+{
+  "name": "com.intides.testupm",
+  "displayName": "Test UPM",
+  "description": "Test Unity Package Manager",
+  "version": "0.0.1",
+  "unity": "2019.2",
+  "dependencies": {
+    
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/baixiaolou-intides/TestUpm-wrongname",
+    "revision": "wrong revision"
+  }
+}
